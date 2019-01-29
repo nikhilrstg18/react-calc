@@ -28,6 +28,7 @@
   ],
   "homepage": "http://nikhilrstg18.github.io/react-calc/",
   "devDependencies": {
+    "bootstrap": "^4.2.1",
     "gh-pages": "^2.0.1"
   }
 }
